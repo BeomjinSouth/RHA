@@ -1,0 +1,5 @@
+{
+  "name": "Copy of RHA Congruence Explorer",
+  "description": "An interactive web application to visually explore and understand the Right-angle-Hypotenuse-Angle (RHA) congruence theorem for right-angled triangles. Users can define a triangle and then reconstruct it based on RHA criteria to see that the solution is unique.",
+  "requestFramePermissions": []
+}
